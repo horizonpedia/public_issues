@@ -1,2 +1,2 @@
-# public_issues
-You can open issues for bugs and pull requests here
+# Welcome to Horizonpedia
+You can open issues for bugs and feature reqests here directly.
